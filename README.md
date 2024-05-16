@@ -1,3 +1,4 @@
+# Pwd-Checker
 
 This code is a simple password strength checker. Let me break it down for you:
 
